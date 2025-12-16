@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kpis-coordinaciones-2026/static/css/main.e6c13ad2.css",
+    "main.css": "/kpis-coordinaciones-2026/static/css/main.f8d71148.css",
     "main.js": "/kpis-coordinaciones-2026/static/js/main.446c2eee.js",
     "static/js/453.1f3c9b3e.chunk.js": "/kpis-coordinaciones-2026/static/js/453.1f3c9b3e.chunk.js",
     "index.html": "/kpis-coordinaciones-2026/index.html",
-    "main.e6c13ad2.css.map": "/kpis-coordinaciones-2026/static/css/main.e6c13ad2.css.map",
+    "main.f8d71148.css.map": "/kpis-coordinaciones-2026/static/css/main.f8d71148.css.map",
     "main.446c2eee.js.map": "/kpis-coordinaciones-2026/static/js/main.446c2eee.js.map",
     "453.1f3c9b3e.chunk.js.map": "/kpis-coordinaciones-2026/static/js/453.1f3c9b3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.f8d71148.css",
     "static/js/main.446c2eee.js"
   ]
 }
